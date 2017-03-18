@@ -8,11 +8,12 @@
 # Site settings
 title: EnPub -- 英璞文化
 email: enpub@outlook.com
-description: Road to Success
+description: Professional English Editing Service for Your Career Success
 baseurl: "" # the subpath of your site, e.g. /blog
 
 theme: jekyll-theme-leap-day
-url: "http://www.enpub.cn" # the base hostname & protocol for your site
+#url: "http://www.enpub.cn" # the base hostname & protocol for your site
+url: "127.0.0.1:4000"
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
