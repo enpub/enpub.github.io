@@ -1378,6 +1378,10 @@ a.bg-info:hover {
 .bg-warning {
   background-color: #fcf8e3;
 }
+.bg-image1 {
+  background-color: #fcf8e3;
+}
+
 a.bg-warning:hover {
   background-color: #f7ecb5;
 }
