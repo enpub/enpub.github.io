@@ -1,7 +1,7 @@
 # Site settings
 title: EnPub-英璞
 email: enpub@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
+description: 英璞，EnPub (English Publication)，英璞专业英文编辑。学术英文编辑。英文期刊编辑。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "www.enpub.cn" # the base hostname & protocol for your site
 
